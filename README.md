@@ -2,6 +2,8 @@
 
 This file provides basic information for my **Final Data Wrangling Project.** 
 
+I chose to dive into the economy, specifically the unemployment rates, S&P 500 stock index, Nasdaq stock index, Dow Jones stock index, interest rates, and inflation rates. All of these aspects provide valuable insights about the health of the economy. At the same time, all these factors affect one another, which affects the economy. Specifically, I want to dive into the effects these factors have on the unemployment rate in the United States. At the same time, I would like to explore the correlations between all the different components. I chose this topic because I find the economy very interesting, especially the unemployment rate. I am interested in finding hidden connections between different parts of the economy and predicting future trends. The unemployment rate is a significant indicator of economic stability, so I believe focusing on this factor is perfect for the data I have gathered.
+
 # **Data_CSV_Files**
 I included all files used in my final analysis in the Data_CSV_Files folder. All of these files and their descriptions can be found in this folder and below. 
 
@@ -49,7 +51,7 @@ I used this Jupyter Notebook to outline initial anlysis for the project check in
 This is the Jupyter Notebook I utilized for the final overall project analysis. I included all intitial anlysis from the project check in here, but I also added in additional analysis questions and graphs, stats, etc. I am still working on finishing my final analysis. I need to add time series analyses and more statistics for my analysis questions. 
 
 # **Project_Check_In_Slides**
-
+I utilized Google Slides to create the pages added onto the initial analysis for the project check in. I described the outcomes of the univariate and bivariate descriptive statistics. Many columns in my dataset are right-skewed with many outliers. At the same time, many of my columns are correlated. I also described the hypothesis tests I conducted. From the 1990s to the 2000s, there is not a significant difference in the unemployment rate. As for the 2000s to the 2010s and the 2010s to the 2020s, there was a significant different in the unemployment rate. Lastly, I utilized many machine learning techniques. I performed a linear regression, logistoc regression, support vector classifier model, k-nearest neighbors classifier model, and decision tree classifier model. The best model for my data was the decision tree classifier model with an accuracy score of .8875.
 
 # **Data Dictionary For All Columns in Final Dataset**
 
@@ -63,8 +65,3 @@ This is the Jupyter Notebook I utilized for the final overall project analysis. 
 | Interest_Rate | Float | Interest Rate (percentage of a loan that is charged as interest to borrower) |
 | Inflation_Rate | Float | Inflation Rate (percent change in the price of a basket of goods/services over a period of time) |
 
-
-
-
-
-Explain different folders, different files, one link (website for scraping), explain data, explain motivation/reason for project
