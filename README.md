@@ -40,6 +40,14 @@ After merging the unemployment, stock, and interest data, I horizontally merged 
 After merging all of my data into one final merged pandas DataFrame, I proceeded to remove NaN values for my final cleaned dataset. I saved this pandas DataFrame to the final .csv file I used in my analysis. 
 
 # **Data_Scraping_API_Integration** 
+I utilized this Jupyter Notebook to scrape the inflation data I found on a website, use the Yaoo Finance API for my three main stock indeces, read in the unemployment and interest rate data, and integrate all of these separate .csv files into one main merged pandas DataFrame. 
+
+# **Initial_Analysis**
+
+
+# **Final_Analysis**
+
+# **Project_Check_In_Slides**
 
 
 # **Data Dictionary For All Columns in Final Dataset**
