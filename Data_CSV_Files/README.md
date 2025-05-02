@@ -3,7 +3,7 @@
 **Unemployment_Monthly.csv**<br>
 When looking for data regarding the unemployment rate, I obtained a .csv file from the Federal Reserve Bank of St. Louis ([Federal Reserve Bank of St. Louis, Unemployment Rate, 2025](https://fred.stlouisfed.org/series/UNRATE)). This website provided a graph and a file regarding the unemployment rates from the U.S. Bureau of Labor Statistics. I downloaded the .csv file attached to the website. The file contained the monthly unemployment rates from January 1948 to February 2025; there is an “observation_date” column and an “UNRATE” column. I renamed the columns to “Date” and “Unemployment_Rate.” I shifted all the dates from the first to the last day of the month and converted them to a datetime data type to match all my other data and properly integrate it. The “Unemployment_Rate” column was already a float data type.
 
-**SP500_monthly_data** <br>
+**SP500_monthly_data.csv** <br>
 I utilized the Yahoo Finance API to find the closing prices of the S&P 500 stock index. The dates present for the S&P 500 data were from January 1929 to March 2025. I found the opening, closing, high, and low prices of this stock. After obtaining this information, I narrowed the data to the closing price at the end of the month, and I rounded it to two decimal places. I shifted all the monthly data from the first to the last of the month and converted the column to a datetime data type. After this step, the columns present for each stock were “Date” and “Ticker,” with the ticker being the symbol for each stock. The “Ticker” column was already a float data type.
 
 **NASDAQ_monthly_data.csv**<br>
