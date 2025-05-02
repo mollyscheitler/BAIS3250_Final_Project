@@ -9,7 +9,7 @@ I have separate folders for my .csv files, scraping/API/integration Jupyter Note
 # **Data_CSV_Files Folder**
 I included all files used in my final analysis in the Data_CSV_Files folder. All of these files and their descriptions can be found in this folder and below. 
 
-# **Descriptions of Files** 
+# **Descriptions of Files - Table of Contents**
 **Unemployment_Monthly.csv**<br>
 When looking for data regarding the unemployment rate, I obtained a .csv file from the Federal Reserve Bank of St. Louis ([Federal Reserve Bank of St. Louis, Unemployment Rate, 2025](https://fred.stlouisfed.org/series/UNRATE)). This website provided a graph and a file regarding the unemployment rates from the U.S. Bureau of Labor Statistics. I downloaded the .csv file attached to the website. The file contained the monthly unemployment rates from January 1948 to February 2025; there is an “observation_date” column and an “UNRATE” column. I renamed the columns to “Date” and “Unemployment_Rate.” I shifted all the dates from the first to the last day of the month and converted them to a datetime data type to match all my other data and properly integrate it. The “Unemployment_Rate” column was already a float data type.
 
