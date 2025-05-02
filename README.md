@@ -43,9 +43,10 @@ After merging all of my data into one final merged pandas DataFrame, I proceeded
 I utilized this Jupyter Notebook to scrape the inflation data I found on a website, use the Yaoo Finance API for my three main stock indeces, read in the unemployment and interest rate data, and integrate all of these separate .csv files into one main merged pandas DataFrame. 
 
 # **Initial_Analysis**
-
+I used this Jupyter Notebook to outline initial anlysis for the project check in. I added univariate and bivariate descriptive statistics, hypothesis tests, and machine learning techniques to analyze my data. 
 
 # **Final_Analysis**
+
 
 # **Project_Check_In_Slides**
 
