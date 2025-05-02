@@ -46,7 +46,7 @@ I utilized this Jupyter Notebook to scrape the inflation data I found on a websi
 I used this Jupyter Notebook to outline initial anlysis for the project check in. I added univariate and bivariate descriptive statistics, hypothesis tests, and machine learning techniques to analyze my data. 
 
 # **Final_Analysis**
-
+This is the Jupyter Notebook I utilized for the final overall project analysis. I included all intitial anlysis from the project check in here, but I also added in additional analysis questions and graphs, stats, etc. I am still working on finishing my final analysis. I need to add time series analyses and more statistics for my analysis questions. 
 
 # **Project_Check_In_Slides**
 
