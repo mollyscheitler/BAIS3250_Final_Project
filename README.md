@@ -4,7 +4,7 @@ This file provides basic information for my **Final Data Wrangling Project.**
 
 I chose to dive into the economy, specifically the unemployment rates, S&P 500 stock index, Nasdaq stock index, Dow Jones stock index, interest rates, and inflation rates. All of these aspects provide valuable insights about the health of the economy. At the same time, all these factors affect one another, which affects the economy. Specifically, I want to dive into the effects these factors have on the unemployment rate in the United States. At the same time, I would like to explore the correlations between all the different components. I chose this topic because I find the economy very interesting, especially the unemployment rate. I am interested in finding hidden connections between different parts of the economy and predicting future trends. The unemployment rate is a significant indicator of economic stability, so I believe focusing on this factor is perfect for the data I have gathered.
 
-# **Data_CSV_Files**
+# **Data_CSV_Files Folder**
 I included all files used in my final analysis in the Data_CSV_Files folder. All of these files and their descriptions can be found in this folder and below. 
 
 # **Descriptions of Files** 
@@ -41,17 +41,17 @@ After merging the unemployment, stock, and interest data, I horizontally merged 
 **mscheitler_Final_Cleaned_Dataset.csv**<br>
 After merging all of my data into one final merged pandas DataFrame, I proceeded to remove NaN values for my final cleaned dataset. I saved this pandas DataFrame to the final .csv file I used in my analysis. 
 
-# **Data_Scraping_API_Integration** 
+# **Data_Scraping_API_Integration Folder** 
 I utilized this Jupyter Notebook to scrape the inflation data I found on a website, use the Yaoo Finance API for my three main stock indeces, read in the unemployment and interest rate data, and integrate all of these separate .csv files into one main merged pandas DataFrame. 
 
-# **Initial_Analysis**
+# **Initial_Analysis Folder**
 I used this Jupyter Notebook to outline initial anlysis for the project check in. I added univariate and bivariate descriptive statistics, hypothesis tests, and machine learning techniques to analyze my data. 
 
-# **Final_Analysis**
-This is the Jupyter Notebook I utilized for the final overall project analysis. I included all intitial anlysis from the project check in here, but I also added in additional analysis questions and graphs, stats, etc. I am still working on finishing my final analysis. I need to add time series analyses and more statistics for my analysis questions. 
-
-# **Project_Check_In_Slides**
+# **Project_Check_In_Slides Folder**
 I utilized Google Slides to create the pages added onto the initial analysis for the project check in. I described the outcomes of the univariate and bivariate descriptive statistics. Many columns in my dataset are right-skewed with many outliers. At the same time, many of my columns are correlated. I also described the hypothesis tests I conducted. From the 1990s to the 2000s, there is not a significant difference in the unemployment rate. As for the 2000s to the 2010s and the 2010s to the 2020s, there was a significant different in the unemployment rate. Lastly, I utilized many machine learning techniques. I performed a linear regression, logistoc regression, support vector classifier model, k-nearest neighbors classifier model, and decision tree classifier model. The best model for my data was the decision tree classifier model with an accuracy score of .8875.
+
+# **Final_Analysis Folder**
+This is the Jupyter Notebook I utilized for the final overall project analysis. I included all intitial anlysis from the project check in here, but I also added in additional analysis questions and graphs, stats, etc. I am still working on finishing my final analysis. I need to add time series analyses and more statistics for my analysis questions. 
 
 # **Data Dictionary For All Columns in Final Dataset**
 
