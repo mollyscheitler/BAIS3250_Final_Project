@@ -4,6 +4,8 @@ This file provides basic information for my **Final Data Wrangling Project.**
 
 I chose to dive into the economy, specifically the unemployment rates, S&P 500 stock index, Nasdaq stock index, Dow Jones stock index, interest rates, and inflation rates. All of these aspects provide valuable insights about the health of the economy. At the same time, all these factors affect one another, which affects the economy. Specifically, I want to dive into the effects these factors have on the unemployment rate in the United States. At the same time, I would like to explore the correlations between all the different components. I chose this topic because I find the economy very interesting, especially the unemployment rate. I am interested in finding hidden connections between different parts of the economy and predicting future trends. The unemployment rate is a significant indicator of economic stability, so I believe focusing on this factor is perfect for the data I have gathered.
 
+I have separate folders for my .csv files, scraping/API/integration Jupyter Notebook, initial analysis Jupyter Notebook, project check in slides, and final analysis Jupyter Notebook. I split all of these up into separate folders for user interaction. 
+
 # **Data_CSV_Files Folder**
 I included all files used in my final analysis in the Data_CSV_Files folder. All of these files and their descriptions can be found in this folder and below. 
 
