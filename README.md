@@ -56,7 +56,7 @@ I utilized Google Slides to create the pages added onto the initial analysis for
 This is the Jupyter Notebook I utilized for the final overall project analysis. I included all intitial anlysis from the project check in here, but I also added in additional analysis questions and graphs, stats, etc. 
 
 # **Final_Report Folder**
-
+I included eveything from this project in my final project report. I explained my topic, motivation, data sources, integration of data, analysis questions with visuals, and overall conlusions to my research questions. 
 
 # **Data Dictionary For All Columns in Final Dataset**
 
