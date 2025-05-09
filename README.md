@@ -49,7 +49,7 @@ After merging the stock indeces into one pandas DataFrame, I horizontally merged
 ## **Unemployment_With_Stocks_Interest.csv**<br> 
 After merging the unemployment and stock data, I then horizontally merged this new pandas DataFrame with the interest data. I used an outer join and merged on the "Date" column. I saved this merged pandas DataFrame to another .csv file. 
 
-## **Unemployment_With_Stocks_Interest_Inflation.csv**<br> 
+## **mscheitler_Unemployment_With_Stocks_Interest_Inflation.csv**<br> 
 After merging the unemployment, stock, and interest data, I horizontally merged this new pandas DataFrame with the inflation data. I used an outer join and merged on the "Date" column. I saved this merged pandas DataFrame to another .csv file. 
 
 ## **mscheitler_Final_Cleaned_Dataset.csv**<br>
